@@ -12,7 +12,7 @@ Exemplos práticos para estudo e revisão
 Faça o download do repositório:<br>
 Clique em Code > Download ZIP<br>
 Ou use o comando abaixo (caso prefira via Git):<br>
-git clone https://github.com/seu-usuario/nome-do-repositorio.git<br>
+git clone git@github.com:Larissa-alSouza/etec-dev-sistemas-1.git<br>
 Extraia o conteúdo (caso tenha baixado em ZIP).<br>
 Abra os arquivos .java em sua IDE de preferência (como Eclipse, IntelliJ ou VS Code).<br>
 Escolha a pasta/atividade que deseja executar ou estudar.
