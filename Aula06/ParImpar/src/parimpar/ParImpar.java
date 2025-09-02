@@ -47,12 +47,12 @@ public class ParImpar {
         {
             if(numeros[i] % 2 == 0)
             {
-                par[j] = numeros[i]; // variável j para preencher o vetor par corretamente, sem correr risco de pular posições
+                par[j] = numeros[i]; // variável diferente "j" para não pular posições
                 j++; // incrementa a variável j para não sobreescrever os valores
             }
             else
             {
-                impar[k] = numeros[i]; // variável k para preencher o vetor impar corretamente, sem correr risco de pular posições
+                impar[k] = numeros[i]; // variável diferente "k" para não pular posições
                 k++; // incrementa a variável k para não sobreescrever os valores
             }
         }
@@ -77,3 +77,4 @@ public class ParImpar {
     }
     
 }
+
