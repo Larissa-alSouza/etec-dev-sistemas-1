@@ -58,6 +58,7 @@ public class ParImpar {
         }
         
         //saída de dados dos vetores par e impar, apresentando também seus índices
+        
         System.out.println("O vetor par possui " + contpar + " índice(s)");
         System.out.println("Vetor par:");
         for(j = 0; j < par.length; j++)
@@ -76,3 +77,4 @@ public class ParImpar {
     }
     
 }
+
