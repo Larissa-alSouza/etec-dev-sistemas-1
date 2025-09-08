@@ -63,7 +63,7 @@ public class ParImpar {
         System.out.println("Vetor par:");
         for(j = 0; j < par.length; j++)
         {
-            System.out.println(par[j]);
+            System.out.println("O número que está na posição [" + j + "] é: " + par[j]);
         }
         
         System.out.println("\n");
@@ -72,7 +72,7 @@ public class ParImpar {
         System.out.println("Vetor ímpar: ");
         for(k = 0; k < impar.length; k++)
         {
-            System.out.println(impar[k]);
+            System.out.println("O número que está na posição [" + k + "] é: " + impar[k]);
         }
     }
     
