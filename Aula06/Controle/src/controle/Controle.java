@@ -62,9 +62,9 @@ public class Controle {
         media = soma / 5;
         
         // Saída de dados
-        System.out.println("O documento de maior valor possui o título de: " + vetor[maiorValor].getTitulo() + " e possui o valor de: " + vetor[maiorValor].getValor());
+        System.out.println("O documento de maior valor possui o título de: " + vetor[maiorValor].getTitulo() + ", e possui o valor de: " + vetor[maiorValor].getValor());
         
-        System.out.println("O documento de menor valor possui o título de: " + vetor[menorValor].getTitulo() + " e possui o valor de: " + vetor[menorValor].getValor());
+        System.out.println("O documento de menor valor possui o título de: " + vetor[menorValor].getTitulo() + ", e possui o valor de: " + vetor[menorValor].getValor());
         
         System.out.println("A soma de todos os valores foi de: " + soma);
         
@@ -72,3 +72,4 @@ public class Controle {
     }
     
 }
+
