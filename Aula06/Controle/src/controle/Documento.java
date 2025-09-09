@@ -9,7 +9,9 @@ public class Documento {
     public Documento() {
         /* 
             Método construtor que não me obriga 
-            a preencher tudo de uma vez
+            a preencher tudo de uma vez, 
+            possibilitando o usuário preencher 
+            conforme o vetor é percorrido
         */
     }
 
@@ -38,3 +40,4 @@ public class Documento {
     }
     
 }
+
